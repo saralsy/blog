@@ -1,6 +1,7 @@
-baseURL = "http://saralsy.com/"
+baseURL = ""
 languageCode = "en-us"
 title = "saralsy's blog"
+enableEmoji = true
 
 defaultContentLanguage = "en"
 hasCJKLanguage = false
@@ -64,7 +65,7 @@ theme = "LoveIt"
     # whether to omit favicon resource links
     noFavicon = true
     # modern SVG favicon to use in place of older style .png and .ico files
-    svgFavicon = "/avatar.png"
+    svgFavicon = "/head.png"
     # Android browser theme color
     themeColor = "#ffffff"
     # Safari mask icon color
@@ -159,8 +160,8 @@ theme = "LoveIt"
       # Gravatar Email for preferred avatar in home page
       gravatarEmail = "sara.liu@nyu.edu"
       # URL of avatar shown in home page
-      avatarURL = "myblog/static/images/avatar_copy.png"
-      #logo = "/avatar.png
+      avatarURL = "head.png"
+      #logo = "/images/avatar.png
       # LoveIt CHANGED | 0.2.7 title shown in home page (HTML format is supported)
       title = "saralsy"
       # subtitle shown in home page
@@ -253,7 +254,7 @@ theme = "LoveIt"
     # LoveIt NEW | 0.2.0 whether to hide a page from search results
     hiddenFromSearch = false
     # LoveIt NEW | 0.2.0 whether to enable twemoji
-    twemoji = false
+    twemoji = true
     # whether to enable lightgallery
     lightgallery = false
     # LoveIt NEW | 0.2.0 whether to enable the ruby extended syntax
@@ -269,7 +270,7 @@ theme = "LoveIt"
     # LoveIt NEW | 0.2.0 Table of the contents config
     [params.page.toc]
       # whether to enable the table of the contents
-      enable = true
+      enable = false
       # whether to make the table of the contents automatically collapsed
       auto = true
     # LoveIt CHANGED | 0.2.0 KaTeX mathematical formulas
@@ -313,7 +314,7 @@ theme = "LoveIt"
       Twitter = true
       Facebook = true
       Linkedin = false
-      Whatsapp = true
+      Whatsapp = false
       Pinterest = false
       Tumblr = false
       HackerNews = false
@@ -321,19 +322,19 @@ theme = "LoveIt"
       VK = false
       Buffer = false
       Xing = false
-      Line = true
+      Line = false
       Instapaper = false
       Pocket = false
       Digg = false
       Stumbleupon = false
       Flipboard = false
-      Weibo = true
+      Weibo = false
       Renren = false
-      Myspace = true
-      Blogger = true
+      Myspace = false
+      Blogger = false
       Baidu = false
       Odnoklassniki = false
-      Evernote = true
+      Evernote = false
       Skype = false
       Trello = false
       Mix = false
@@ -521,6 +522,7 @@ theme = "LoveIt"
   name = "saralsy"
   email = "sara.liu@nyu.edu"
   link = ""
+  avatar = "head.png"
 
 # Sitemap config
 [sitemap]
