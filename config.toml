@@ -1,6 +1,6 @@
-baseURL = "http://example.org/"
+baseURL = "http://saralsy.com/"
 languageCode = "en-us"
-title = "Saralsy"
+title = "saralsy's blog"
 
 defaultContentLanguage = "en"
 hasCJKLanguage = false
@@ -18,7 +18,7 @@ theme = "LoveIt"
     name = "Posts"
     url = "/posts/"
     # title will be shown when you hover on this menu link
-    title = "Saralsy"
+    title = ""
     weight = 1
   [[menu.main]]
     identifier = "tags"
@@ -26,7 +26,7 @@ theme = "LoveIt"
     post = ""
     name = "Tags"
     url = "/tags/"
-    title = "Saralsy"
+    title = ""
     weight = 2
   [[menu.main]]
     identifier = "categories"
@@ -46,7 +46,7 @@ theme = "LoveIt"
   # site keywords
   keywords = ["Theme", "Hugo"]
   # site default theme ("light", "dark", "auto")
-  defaultTheme = "auto"
+  defaultTheme = "light"
   # public git repo url only then enableGitInfo is true
   gitRepo = ""
   # LoveIt NEW | 0.1.1 which hash function used for SRI, when empty, no SRI is used
@@ -55,16 +55,16 @@ theme = "LoveIt"
   # LoveIt NEW | 0.2.0 date format
   dateFormat = "2006-01-02"
   # website images for Open Graph and Twitter Cards
-  images = ["/static/ava.png"]
+  images = ["/avatar.png"]
 
   # LoveIt NEW | 0.2.0 App icon config
   [params.app]
     # optional site title override for the app when added to an iOS home screen or Android launcher
-    title = "LoveIt"
+    title = "saralsy's blog"
     # whether to omit favicon resource links
-    noFavicon = false
+    noFavicon = true
     # modern SVG favicon to use in place of older style .png and .ico files
-    svgFavicon = ""
+    svgFavicon = "/avatar.png"
     # Android browser theme color
     themeColor = "#ffffff"
     # Safari mask icon color
@@ -103,7 +103,7 @@ theme = "LoveIt"
     # LoveIt NEW | 0.2.0 Header title config
     [params.header.title]
       # URL of the LOGO
-      logo = ""
+      logo = "avatar.png"
       # title name
       name = ""
       # you can add extra information before the name (HTML format is supported), such as icons
@@ -159,9 +159,10 @@ theme = "LoveIt"
       # Gravatar Email for preferred avatar in home page
       gravatarEmail = "sara.liu@nyu.edu"
       # URL of avatar shown in home page
-      avatarURL = "/static/ava.png"
+      avatarURL = "/images/avatar_copy.png"
+      #logo = "/avatar.png"
       # LoveIt CHANGED | 0.2.7 title shown in home page (HTML format is supported)
-      title = ""
+      title = "saralsy"
       # subtitle shown in home page
       subtitle = "I am a life-long learn, female founder, tech enthusiast"
       # whether to use typeit animation for subtitle
@@ -177,7 +178,7 @@ theme = "LoveIt"
       paginate = 6
       # LoveIt DELETED | 0.2.0 replaced with hiddenFromHomePage in params.page
       # default behavior when you don't set "hiddenFromHomePage" in front matter
-      defaultHiddenFromHomePage = false
+      defaultHiddenFromHomePage = true
 
   # Social config about the author
   [params.social]
@@ -185,7 +186,7 @@ theme = "LoveIt"
     Linkedin = ""
     Twitter = "saraliu7"
     Instagram = "saladlsy"
-    Facebook = "xxxx"
+    Facebook = "profile.php?id=100004135531060"
     Medium = ""
     Gitlab = ""
     Youtubelegacy = ""
@@ -419,19 +420,19 @@ theme = "LoveIt"
     [params.page.seo]
       # Publisher info
       [params.page.seo.publisher]
-        name = "xxxx"
+        name = "Sara Liu"
         [params.page.seo.publisher.logo]
-          url = "ava.png"
-          width = 127
-          height = 40
+          url = "avatar.png"
+          width = 800
+          height = 550
       # Logo info
       [params.page.seo.logo]
-        url = "ava.png"
+        url = "/avatar.png"
         width = 127
         height = 40
       # Image info
       [params.page.seo.image]
-        url = "ava.png"
+        url = "/avatar.png"
         width = 800
         height = 600
 
@@ -517,8 +518,8 @@ theme = "LoveIt"
 
 # Author config
 [author]
-  name = "xxxx"
-  email = ""
+  name = "saralsy"
+  email = "sara.liu@nyu.edu"
   link = ""
 
 # Sitemap config
