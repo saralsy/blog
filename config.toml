@@ -164,7 +164,7 @@ theme = "LoveIt"
       # LoveIt CHANGED | 0.2.7 title shown in home page (HTML format is supported)
       title = "saralsy"
       # subtitle shown in home page
-      subtitle = "I am a life-long learn, female founder, tech enthusiast"
+      subtitle = "I am a life-long learner, female founder, tech enthusiast"
       # whether to use typeit animation for subtitle
       typeit = true
       # whether to show social links
@@ -471,7 +471,7 @@ theme = "LoveIt"
 
   # LoveIt NEW | 0.2.7 Cookie consent config
   [params.cookieconsent]
-    enable = true
+    enable = false
     # text strings used for Cookie consent banner
     [params.cookieconsent.content]
       message = ""
