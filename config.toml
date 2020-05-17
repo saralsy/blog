@@ -159,8 +159,8 @@ theme = "LoveIt"
       # Gravatar Email for preferred avatar in home page
       gravatarEmail = "sara.liu@nyu.edu"
       # URL of avatar shown in home page
-      avatarURL = "/images/avatar_copy.png"
-      #logo = "/avatar.png"
+      avatarURL = "myblog/static/images/avatar_copy.png"
+      #logo = "/avatar.png
       # LoveIt CHANGED | 0.2.7 title shown in home page (HTML format is supported)
       title = "saralsy"
       # subtitle shown in home page
