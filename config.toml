@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://saralsy.netlify.app/"
 languageCode = "en-us"
 title = "saralsy's blog"
 enableEmoji = true
