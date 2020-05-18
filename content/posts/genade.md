@@ -12,6 +12,9 @@ images: ["/images/genade-logo.jpeg"]
 featuredImage: "/images/genade-logo.jpeg"
 ---
 
+It all started at a pitch bootcamp, then it got crazy really quickly.
+
+<!--more--> 
 # How Genade or Miranda is started
 
 User Type | Problem Faced

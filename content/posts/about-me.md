@@ -2,15 +2,14 @@
 title: "About me"
 date: 2020-05-14T15:33:57-04:00
 draft: false
+description: "Thank you for being here first of all. "
 tags: ["personal"]
 categories: ["life"]
-description: "Thank you for being here first of all. "
 
-images: ["/images/space.png"]
-featuredImage: "/images/space.png"
 ---
 
-Hello and welcome to my website! 
+Hello and welcome to my website! I am a student @NYU Stern, startup founder, tech enthusiast, Singaporean..
+<!--more--> 
 
 
 ## I am a student
@@ -37,8 +36,5 @@ I will show you what I can do in the project folder.
 * first game in Jul 2020
 * first data science project in Aug 2020
 * let's see how far we can go..
-
-
-[Featured image provided by @mike L](https://dribbble.com/shots7213674-100-Days-of-Vector-Day-3-Space)
 
 

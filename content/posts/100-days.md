@@ -1,19 +1,22 @@
 ---
-title: "100 Days"
+title: "100 Days of Code"
 date: 2020-05-18T13:53:57-04:00
 draft: false
+description: "It's a challenge that I am willing to accept."
 tags: ["personal"]
 categories: ["projects"]
-description: "It's a challenge that I am willing to accept."
 
-images: ["/images/day-100.png"]
-featuredImage: "/images/day-100.png"
+
+images: ["/images/up-up.gif"]
+featuredImage: "/images/up-up.gif"
 ---
 
-# 100 Days Of Code - Log
 
 
+It's a challenge that I am willing to accept.
+<!--more--> 
 
+# :100:Days Of Code - Log
 
 ### Day 0: Feb 30, 2016 (Example 1)
 

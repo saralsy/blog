@@ -7,6 +7,8 @@ categories: ["projects"]
 description: "How I spend my time wisely and creatively building small projects"
 ---
 
+<!--more--> 
+
 [x] website :sunglasses:
 5/17: Designed my website, created an outline, hosted it using netlify
 
