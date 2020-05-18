@@ -1,8 +1,9 @@
 ---
-title: "Product"
+title: "Genade, thinking about insurance"
 date: 2020-05-17T18:25:58-04:00
 draft: false
 ---
+
 
 
 User Type | Problem Faced
