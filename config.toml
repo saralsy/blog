@@ -2,6 +2,7 @@ baseURL = "https://saralsy.com/"
 languageCode = "en-us"
 title = "saralsy's blog"
 enableEmoji = true
+enableGitInfo = true
 
 defaultContentLanguage = "en"
 hasCJKLanguage = false
@@ -37,15 +38,6 @@ theme = "LoveIt"
     url = "/categories/"
     title = ""
     weight = 3
-
-  [[menu.main]]
-    identifier = "CV"
-    pre = "<<i class="far fa-file-user"></i>"
-    post = ""
-    name = ""
-    url = "https://docs.google.com/document/d/1arPc_GwsL6kv2CitkPmxFMZ1ubRX_2A5hpjw85TeWlU/edit?usp=sharing"
-    title = "CV"
-    weight = 4
 
 
 [params]

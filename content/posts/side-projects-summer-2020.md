@@ -17,7 +17,7 @@ description: "How I spend my time wisely and creatively building small projects"
 * 5/17: Still trying to think about what I want to build
 * insurance platform that is similar to WeFox
 
-[ ] data science project :bowtie:
+[ ] data science project :milky_way:
 5/17: something that can import data and visualize on a dashoboard
 
 [ ] game :dizzy:
