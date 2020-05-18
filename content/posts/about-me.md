@@ -1,9 +1,10 @@
 ---
-title: "About Me"
+title: "About me"
 date: 2020-05-14T15:33:57-04:00
 draft: false
 tags: ["personal"]
 categories: ["life"]
+description: "Thank you for being here first of all. "
 ---
 
 Hello and welcome to my website! 

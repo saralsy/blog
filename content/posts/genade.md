@@ -2,9 +2,16 @@
 title: "Genade, thinking about insurance"
 date: 2020-05-17T18:25:58-04:00
 draft: false
+tags: ["startup"]
+description: "It all started at a pitch bootcamp, then it got crazy really quickly"
+images: ["/images/genade.png"]
+
+tags: ["Markdown", "HTML"]
+categories: ["Markdown"]
+featuredImage: "/images/genade.png"
 ---
 
-
+# How Genade or Miranda is started
 
 User Type | Problem Faced
 ------------ | -------------
