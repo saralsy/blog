@@ -4,10 +4,11 @@ date: 2020-05-17T18:25:58-04:00
 draft: false
 tags: ["startup"]
 description: "It all started at a pitch bootcamp, then it got crazy really quickly"
-images: ["/images/genade-logo.jpeg"]
 
 tags: ["projects"]
 categories: ["projects"]
+
+images: ["/images/genade-logo.jpeg"]
 featuredImage: "/images/genade-logo.jpeg"
 ---
 

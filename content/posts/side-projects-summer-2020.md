@@ -18,7 +18,7 @@ description: "How I spend my time wisely and creatively building small projects"
 * insurance platform that is similar to WeFox
 
 [ ] data science project :milky_way:
-5/17: something that can import data and visualize on a dashoboard
+* 5/17: something that can import data and visualize on a dashoboard
 
 [ ] game :dizzy:
 
