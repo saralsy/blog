@@ -6,8 +6,8 @@ tags: ["startup"]
 description: "It all started at a pitch bootcamp, then it got crazy really quickly"
 images: ["/images/genade-logo.jpeg"]
 
-tags: ["Markdown", "HTML"]
-categories: ["Markdown"]
+tags: ["projects"]
+categories: ["projects"]
 featuredImage: "/images/genade-logo.jpeg"
 ---
 

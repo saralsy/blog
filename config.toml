@@ -38,6 +38,15 @@ theme = "LoveIt"
     title = ""
     weight = 3
 
+  [[menu.main]]
+    identifier = "CV"
+    pre = "<<i class="far fa-file-user"></i>"
+    post = ""
+    name = ""
+    url = "https://docs.google.com/document/d/1arPc_GwsL6kv2CitkPmxFMZ1ubRX_2A5hpjw85TeWlU/edit?usp=sharing"
+    title = "CV"
+    weight = 4
+
 
 [params]
   # LoveIt CHANGED | 0.2.0 LoveIt theme version
