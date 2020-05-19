@@ -11,21 +11,20 @@ images: ["/images/up-up.gif"]
 featuredImage: "/images/up-up.gif"
 ---
 
-
-
-It's a challenge that I am willing to accept.
 <!--more--> 
 
 # :100:Days Of Code - Log
 
-### Day 0: Feb 30, 2016 (Example 1)
+### Day 1: May 18, 2020, Monday
 
-##### (delete me or comment me out)
+**Today's Progress**: Learned JavaScript, pop(), push(), shift(), unshift()
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Thoughts:** Very similar to Java, wonder what's the point of creating JavaScript, may be it works better on the web?
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
+console.log()  | System.out.println()
+---------------|---------------------
+function       | output type
+var            | output type
 
 ### Day 1: June 27, Monday (Example 2)
 
