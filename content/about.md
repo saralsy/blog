@@ -19,7 +19,11 @@ On this blog, I will mainly post three types of content:
 * Reflection on world affairs (in [life](/categories/))
 * Science news (coming Fall 2020)
 
+<p>&nbsp; </p>  
+
 I want this blog to document the journey I take to find different portals, whether it be in science or in tech. There are so many things I want to learn, explore. I am still not sure what I want to specialize after graudation because everything seems interesting! 
+
+<p>&nbsp; </p>  
 
 ## I am a student
 

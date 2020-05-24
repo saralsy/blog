@@ -264,7 +264,7 @@ theme = "LoveIt"
     # LoveIt NEW | 0.2.0 whether to enable twemoji
     twemoji = true
     # whether to enable lightgallery
-    lightgallery = false
+    lightgallery = true
     # LoveIt NEW | 0.2.0 whether to enable the ruby extended syntax
     ruby = true
     # LoveIt NEW | 0.2.0 whether to enable the fraction extended syntax
