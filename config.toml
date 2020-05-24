@@ -20,24 +20,32 @@ theme = "LoveIt"
     name = "Blog"
     url = "/blog/"
     # title will be shown when you hover on this menu link
-    title = ""
+    title = "Blog"
     weight = 1
   [[menu.main]]
-    identifier = ""
+    identifier = "Tags"
     pre = ""
     post = ""
-    name = "Tags"
+    name = ""
     url = "/tags/"
     title = ""
     weight = 2
   [[menu.main]]
-    identifier = "Projects"
+    identifier = "category"
     pre = ""
     post = ""
-    name = "Projects"
-    url = "/projects/"
-    title = ""
+    name = "Categories"
+    url = "/categories/"
+    title = "Category"
     weight = 3
+  [[menu.main]]
+    identifier = "about"
+    pre = ""
+    post = ""
+    name = "About"
+    url = "/about/"
+    title = ""
+    weight = 4
 
 
 [params]
@@ -107,7 +115,7 @@ theme = "LoveIt"
       # URL of the LOGO
       logo = "avatar.png"
       # title name
-      name = "Economics, Technology, Reflection, updated bi-weekly"
+      name = "saralsy"
       # you can add extra information before the name (HTML format is supported), such as icons
       pre = ""
       # you can add extra information after the name (HTML format is supported), such as icons
@@ -163,15 +171,15 @@ theme = "LoveIt"
       # URL of avatar shown in home page
       avatarURL = "images/head.png"
       # LoveIt CHANGED | 0.2.7 title shown in home page (HTML format is supported)
-      title = "saralsy"
+      title = "Sara Siye Liu"
       # subtitle shown in home page
-      subtitle = "I am a life-long learner, female founder, tech enthusiast"
+      subtitle = "I am a life-long learner, entrepreneur and tech enthusiast."
       # whether to use typeit animation for subtitle
       typeit = true
       # whether to show social links
       social = true
       # LoveIt NEW | 0.2.0 disclaimer (HTML format is supported)
-      disclaimer = ""
+      disclaimer = "Economics, Technology, Reflection, updated bi-weekly"
     # Home page posts
     [params.home.posts]
       enable = true
@@ -184,10 +192,10 @@ theme = "LoveIt"
   # Social config about the author
   [params.social]
     GitHub = "saralsy"
-    Linkedin = ""
+    Linkedin = "https://www.linkedin.com/in/sara-liu-siye/"
     Twitter = "saraliu7"
     Instagram = "saladlsy"
-    Facebook = "profile.php?id=100004135531060"
+    Facebook = ""
     Medium = ""
     Gitlab = ""
     Youtubelegacy = ""
