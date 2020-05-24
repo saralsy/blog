@@ -12,18 +12,18 @@ theme = "LoveIt"
 
 [menu]
   [[menu.main]]
-    identifier = "posts"
+    identifier = "Blog"
     # you can add extra information before the name (HTML format is supported), such as icons
     pre = ""
     # you can add extra information after the name (HTML format is supported), such as icons
     post = ""
-    name = "Posts"
-    url = "/posts/"
+    name = "Blog"
+    url = "/blog/"
     # title will be shown when you hover on this menu link
     title = ""
     weight = 1
   [[menu.main]]
-    identifier = "tags"
+    identifier = ""
     pre = ""
     post = ""
     name = "Tags"
@@ -31,11 +31,11 @@ theme = "LoveIt"
     title = ""
     weight = 2
   [[menu.main]]
-    identifier = "categories"
+    identifier = "Projects"
     pre = ""
     post = ""
-    name = "Categories"
-    url = "/categories/"
+    name = "Projects"
+    url = "/projects/"
     title = ""
     weight = 3
 
@@ -46,7 +46,7 @@ theme = "LoveIt"
   # site description
   description = "I am a life-long learner, entrepreneur and tech-enthusiast"
   # site keywords
-  keywords = ["Theme", "Hugo"]
+  keywords = ["Theme", "Hugo", "Sara Liu", "NYU Stern"]
   # site default theme ("light", "dark", "auto")
   defaultTheme = "light"
   # public git repo url only then enableGitInfo is true
@@ -107,7 +107,7 @@ theme = "LoveIt"
       # URL of the LOGO
       logo = "avatar.png"
       # title name
-      name = "saralsy"
+      name = "Economics, Technology, Reflection, updated bi-weekly"
       # you can add extra information before the name (HTML format is supported), such as icons
       pre = ""
       # you can add extra information after the name (HTML format is supported), such as icons

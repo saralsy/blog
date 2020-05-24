@@ -8,15 +8,20 @@ categories: ["life"]
 
 ---
 
-Hello and welcome to my website! I am a student @NYU Stern, startup founder, tech enthusiast, Singaporean..
+Hello and welcome to my website! I am Sara Siye Liu, student @NYU Stern, insurtech startup founder, tech enthusiast, Singaporean. I believe in creating a better future by harnessing the power of technology into business. One cannot do without the other.
 <!--more--> 
 
+On this blog, I will mainly post three types of content:
+* Personal projects (in [Projects]("./projects"))
+* Reflection on world affairs (in [Blogs](./blogs))
+* Science news (coming Fall 2020)
+
+I want this blog to document the journey I take to find different portals, whether it be in science or in tech. There are so many things I want to learn, explore. I am still not sure what I want to specialize after graudation because everything seems interesting! 
 
 ## I am a student
 
 I study Business (Finance) + CS at NYU.
 I love reading, hoarding books.
-![logo](ava.png)
 
 ## I am an entrepreneur
 

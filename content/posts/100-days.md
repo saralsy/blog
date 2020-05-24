@@ -2,7 +2,7 @@
 title: "100 Days of Code"
 date: 2020-05-18T13:53:57-04:00
 draft: false
-description: "It's a challenge that I am willing to accept."
+description: "I will code for at least an hour every day for the next 100 days to become a better developer, learn ways to build and ship a product. It's a challenge that I am willing to accept."
 tags: ["personal"]
 categories: ["projects"]
 
@@ -46,7 +46,18 @@ var            | output type
 **Link(s) to work**
 1. [Numpy Tutorial](https://colab.research.google.com/drive/1io8G-Kg2ys14CUc6n_clXQYNNT17NSPl?usp=sharing)
 
+### Day 3: May 24, 2020, Sunday
+
+**Today's Progress**: just finished my first hackathon. It was an incredibel experience and I can still feel the surge in adrenaline as I look at our final product and demo video. It was tons of learning different languages and techniques in such a short amount of time. I also had a glimpse of software development and have a better appreciation of different roles / talent that is needed to make the product work and be loved by users.
+
+**Link(s) to work**
+1. [Trekker Gihub](https://github.com/Ziyangll/trekking/)
+2. [Backyard Hack Demo Video on Youtube](https://www.youtube.com/watch?v=CoBqpPiMlxs&feature=youtu.be)
+3. [Project website - Trekker](trekkingnew.space)
 
 
 
+
+
+Special thanks:
 [Image provided by @Sean Daugherty](https://dribbble.com/shots/5909115-100-Days-of-School)
