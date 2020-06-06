@@ -1,7 +1,7 @@
 ---
 title: "Reflection on George Floyd and the BLM Protest"
 date: 2020-05-30T19:00:59-04:00
-draft: true
+draft: false
 tags: ["reflection"]
 categories: ["reflection"]
 
