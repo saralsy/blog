@@ -18,10 +18,14 @@ On this blog, I will mainly post three types of content:
 
 I want this blog to document the journey I take to find different portals, whether it be in science or in tech. There are so many things I want to learn, explore. I am still not sure what I want to specialize after graudation because everything seems interesting! 
 
+<p>&nbsp; </p>
+
 ## I am a student
 
 I study Business (Finance) + CS at NYU.
 I love reading, hoarding books.
+
+<p>&nbsp; </p>
 
 ## I am an entrepreneur
 
@@ -31,6 +35,8 @@ This entreprenerial spirit has been with me forever!
 
 I then went on to participate in several startup pitching challenges (e.g semi-finalist for NYU 300K entrepreneur challenge, Top 10 U.S. National Finalist for L'Oreal brandstorm)
 Fun, rewarding and exhilaring experience everytime I get to create, re-imagine and put to work some of me and my friends' ideas!
+
+<p>&nbsp; </p>
 
 ## I am a tech enthusiast.
 
