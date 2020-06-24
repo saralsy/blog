@@ -1,7 +1,7 @@
 ---
 title: "Sweet Bitterness of Solitude"
 date: 2020-06-23T23:16:39-04:00
-draft: true
+draft: false
 tags: ["personal"]
 categories: ["life"]
 description: I never felt this blissful and despondent at the same time. 
