@@ -5,6 +5,7 @@ draft: false
 description: "Thank you for being here first of all. "
 tags: ["personal"]
 categories: ["life"]
+image: "images/about.png"
 
 ---
 
@@ -12,7 +13,7 @@ Hello and welcome to my website! I am Sara Siye Liu, student @NYU Stern, insurte
 <!--more--> 
 
 On this blog, I will mainly post three types of content:
-* Personal projects (in [Projects]("./projects"))
+* Personal projects (in [Projects]("/projects"))
 * Reflection on world affairs (in [Blogs](./blogs))
 * Science news (coming Fall 2020)
 
