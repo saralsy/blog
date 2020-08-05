@@ -65,7 +65,7 @@ theme = "LoveIt"
   # LoveIt NEW | 0.2.0 date format
   dateFormat = "2006-01-02"
   # website images for Open Graph and Twitter Cards
-  images = ["/about.png"]
+  images = ["about.jpg"]
 
   # LoveIt NEW | 0.2.0 App icon config
   [params.app]
@@ -169,7 +169,7 @@ theme = "LoveIt"
       # Gravatar Email for preferred avatar in home page
       gravatarEmail = ""
       # URL of avatar shown in home page
-      avatarURL = "images/about.png"
+      avatarURL = "about.jpg"
       # LoveIt CHANGED | 0.2.7 title shown in home page (HTML format is supported)
       title = "Sara Siye Liu"
       # subtitle shown in home page
