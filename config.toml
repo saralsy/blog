@@ -113,7 +113,7 @@ theme = "LoveIt"
     # LoveIt NEW | 0.2.0 Header title config
     [params.header.title]
       # URL of the LOGO
-      logo = "avatar.png"
+      logo = ""
       # title name
       name = "saralsy"
       # you can add extra information before the name (HTML format is supported), such as icons
@@ -431,7 +431,7 @@ theme = "LoveIt"
       [params.page.seo.publisher]
         name = "Sara Liu"
         [params.page.seo.publisher.logo]
-          url = "avatar.png"
+          url = "/avatar.png"
           width = 800
           height = 550
       # Logo info
@@ -441,7 +441,7 @@ theme = "LoveIt"
         height = 40
       # Image info
       [params.page.seo.image]
-        url = "/avatar.png"
+        url = "avatar.png"
         width = 800
         height = 600
 
